@@ -4,11 +4,11 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON%20-red?style=for-the-badge"
+  <img src="https://img.shields.io/badge/MADE%20WITH-AppScript%20-red?style=for-the-badge"
       alt="API stability" height="25"/>
-  <img src="https://img.shields.io/badge/SERVED%20WITH-Heroku-blue?style=for-the-badge"
+  <img src="https://img.shields.io/badge/SERVED%20WITH-Github-blue?style=for-the-badge"
       alt="API stability" height="25"/>
-  <img src="https://img.shields.io/badge/DASHBOARDING%20WITH-Streamlit-green?style=for-the-badge"
+  <img src="https://img.shields.io/badge/DASHBOARDING%20WITH-BootStrap-green?style=for-the-badge"
       alt="API stability" height="25"/>
 </div>
 

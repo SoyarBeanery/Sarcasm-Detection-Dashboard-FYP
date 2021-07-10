@@ -1,6 +1,6 @@
 # Sarcasm Detection From Cyberbullying And CyberAggressive Cases Online Through Social Media Analytics
 
-> A Dashboard for the HEI in Malaysia
+> A Social Media Mining Approach
 
 <div align="center">
   <br>

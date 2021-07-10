@@ -69,10 +69,3 @@ The impact of technology in education is getting more common. In the UK, most of
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 ---
-
-# License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-

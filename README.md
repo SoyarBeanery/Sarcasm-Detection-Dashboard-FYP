@@ -16,3 +16,5 @@ Keywords: Sarcasm Detection, Cyberbullying, Cyber Aggression, Social Media Analy
 
 
 DASHBOARD: https://soyarbeanery.github.io/Sarcasm-Detection-Dashboard-FYP/
+
+Datasets Were Taken From: https://data.mendeley.com/datasets/jf4pzyvnpj/1
